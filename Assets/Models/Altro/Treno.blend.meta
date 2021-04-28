@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 084c399e6e293d54bb15d75f5b45b9b4
+timeCreated: 1487776665
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Carbone
+    100002: RuoteCarbone
+    100004: Treno
+    100006: //RootNode
+    100008: Treno_Ruote
+    100010: Vagoncino
+    100012: Vagoncino_001
+    100014: Vagoncino_002
+    100016: Vagoncino_003
+    100018: Vagoncino_Ruote
+    100020: Vagoncino_Ruote_001
+    100022: Vagoncino_Ruote_002
+    100024: Vagoncino_Ruote_003
+    400000: Carbone
+    400002: RuoteCarbone
+    400004: Treno
+    400006: //RootNode
+    400008: Treno_Ruote
+    400010: Vagoncino
+    400012: Vagoncino_001
+    400014: Vagoncino_002
+    400016: Vagoncino_003
+    400018: Vagoncino_Ruote
+    400020: Vagoncino_Ruote_001
+    400022: Vagoncino_Ruote_002
+    400024: Vagoncino_Ruote_003
+    2300000: Carbone
+    2300002: RuoteCarbone
+    2300004: Treno
+    2300006: Treno_Ruote
+    2300008: Vagoncino
+    2300010: Vagoncino_001
+    2300012: Vagoncino_002
+    2300014: Vagoncino_003
+    2300016: Vagoncino_Ruote
+    2300018: Vagoncino_Ruote_001
+    2300020: Vagoncino_Ruote_002
+    2300022: Vagoncino_Ruote_003
+    3300000: Carbone
+    3300002: RuoteCarbone
+    3300004: Treno
+    3300006: Treno_Ruote
+    3300008: Vagoncino
+    3300010: Vagoncino_001
+    3300012: Vagoncino_002
+    3300014: Vagoncino_003
+    3300016: Vagoncino_Ruote
+    3300018: Vagoncino_Ruote_001
+    3300020: Vagoncino_Ruote_002
+    3300022: Vagoncino_Ruote_003
+    4300000: Vagoncino_Ruote_003
+    4300002: Vagoncino_003
+    4300004: Vagoncino_002
+    4300006: Vagoncino_Ruote_002
+    4300008: Vagoncino_Ruote_001
+    4300010: Vagoncino_001
+    4300012: Carbone
+    4300014: RuoteCarbone
+    4300016: Treno_Ruote
+    4300018: Treno
+    4300020: Vagoncino
+    4300022: Vagoncino_Ruote
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
